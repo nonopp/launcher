@@ -1,0 +1,7 @@
+06/12/2020
+
+- Pasar directamente las carpetas js, css e images a la carpeta static del tema.
+
+- Y copiar el archivo index.html directamente al index.html de la carpeta layouts del theme
+
+- Ruta de css cambiar (../images/.. por (/images/..
